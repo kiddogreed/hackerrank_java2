@@ -1,0 +1,49 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Demo",
+      "request": "launch",
+      "mainClass": "Demo",
+      "projectName": "hacker-rank_ab09b1db"
+    },
+    {
+      "type": "java",
+      "name": "JavaLoopII",
+      "request": "launch",
+      "mainClass": "JavaLoopII",
+      "projectName": "hacker-rank_ab09b1db"
+    },
+    {
+      "type": "java",
+      "name": "JavaloopAns",
+      "request": "launch",
+      "mainClass": "JavaloopAns",
+      "projectName": "hacker-rank_ab09b1db"
+    },
+    {
+      "type": "java",
+      "name": "LexicographOrder",
+      "request": "launch",
+      "mainClass": "LexicographOrder",
+      "projectName": "hacker-rank_ab09b1db"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "Test",
+      "projectName": "hacker-rank_ab09b1db"
+    }
+  ]
+}
